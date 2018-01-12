@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="074f7f1a-9047-4108-87e2-dfe35e588bf8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWorldService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ws/server/HelloWorldService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloWordServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ws/server/HelloWordServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MAVEN/com.github.nyc:ws-study:1.0-SNAPSHOT" pinned="false" current-in-tab="true">
+        <entry file="uml://MAVEN/com.github.nyc:ws-study:1.0-SNAPSHOT">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>MAVEN</ID>
+              <OriginalElement>com.github.nyc:ws-study:1.0-SNAPSHOT</OriginalElement>
+              <nodes>
+                <node x="1265.7842261904764" y="910.0">com.github.nyc:ws-study:1.0-SNAPSHOT</node>
+                <node x="1760.0029761904764" y="820.0">junit:junit:jar:3.8.1</node>
+                <node x="1059.4881499474784" y="260.0">org.apache.cxf:cxf-api:jar:2.5.0</node>
+                <node x="444.37510285364124" y="160.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0</node>
+                <node x="411.12510285364124" y="80.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1</node>
+                <node x="439.12510285364124" y="0.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1/org.codehaus.woodstox:stax2-api:jar:3.1.1</node>
+                <node x="1071.2381499474784" y="80.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.1</node>
+                <node x="1057.2381499474784" y="160.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.neethi:neethi:jar:3.0.1</node>
+                <node x="613.3751028536412" y="160.0">org.apache.cxf:cxf-api:jar:2.5.0/wsdl4j:wsdl4j:jar:1.6.2</node>
+                <node x="1032.8958333333335" y="820.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0</node>
+                <node x="1382.2381499474784" y="710.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/xml-resolver:xml-resolver:jar:1.2</node>
+                <node x="1126.2381499474784" y="710.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/asm:asm:jar:3.3</node>
+                <node x="1323.0088804271707" y="430.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0</node>
+                <node x="719.5381499474784" y="260.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/com.sun.xml.bind:jaxb-impl:jar:2.1.13</node>
+                <node x="1391.6338804271707" y="260.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1</node>
+                <node x="1044.7381499474784" y="630.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-bindings-xml:jar:2.5.0</node>
+                <node x="1202.2381499474784" y="710.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0</node>
+                <node x="594.8751028536412" y="710.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0</node>
+                <node x="793.2381499474784" y="630.0">org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0</node>
+                <node x="709.2381499474784" y="540.0">org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0</node>
+                <node x="965.2381499474784" y="540.0">org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0</node>
+                <node x="1585.0029761904764" y="820.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0</node>
+                <node x="1535.8647365196066" y="540.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.apache.cxf:cxf-rt-transports-common:jar:2.5.0</node>
+                <node x="2073.5397365196063" y="710.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE</node>
+                <node x="1772.9463804271707" y="430.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+                <node x="2078.8838804271704" y="430.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE</node>
+                <node x="2037.0397365196063" y="630.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE</node>
+                <node x="1945.7397365196064" y="540.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE</node>
+                <node x="1891.9463804271707" y="430.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-expression:jar:3.0.6.RELEASE</node>
+                <node x="2018.6443999474784" y="160.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-asm:jar:3.0.6.RELEASE</node>
+                <node x="1992.6443999474784" y="260.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE</node>
+                <node x="345.8333333333335" y="820.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0</node>
+                <node x="160.83333333333348" y="710.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3</node>
+                <node x="301.40481661414515" y="630.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5</node>
+                <node x="267.40481661414515" y="540.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5/commons-logging:commons-logging:jar:1.1</node>
+                <node x="164.40481661414515" y="630.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1</node>
+                <node x="170.40481661414515" y="540.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1</node>
+                <node x="162.40481661414515" y="430.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1</node>
+                <node x="153.33333333333348" y="260.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/org.slf4j:slf4j-api:jar:1.6.1</node>
+                <node x="276.5833333333335" y="260.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/joda-time:joda-time:jar:1.6.2</node>
+                <node x="62.333333333333485" y="260.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/org.apache.santuario:xmlsec:jar:1.4.4</node>
+                <node x="0.0" y="160.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/commons-logging:commons-logging:jar:1.1.1</node>
+                <node x="455.90481661414515" y="710.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1</node>
+                <node x="444.90481661414515" y="630.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1/xalan:serializer:jar:2.7.1</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/commons-logging:commons-logging:jar:1.1.1">
+                  <point x="-25.0" y="-15.0" />
+                  <point x="2017.6443999474784" y="210.0" />
+                  <point x="115.83333333333326" y="210.0" />
+                  <point x="46.33333333333326" y="15.0" />
+                </edge>
+                <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="6.916666666666629" y="-15.0" />
+                  <point x="1314.2008928571431" y="870.0" />
+                  <point x="1512.2693999474784" y="870.0" />
+                  <point x="1512.2693999474784" y="330.0" />
+                  <point x="1115.6964832808117" y="330.0" />
+                  <point x="20.70833333333337" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+                  <point x="55.19999999999999" y="-15.0" />
+                  <point x="833.4381499474785" y="500.0" />
+                  <point x="1329.6517375700278" y="500.0" />
+                  <point x="-39.85714285714289" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/wsdl4j:wsdl4j:jar:1.6.2">
+                  <point x="-27.600000000000023" y="-15.0" />
+                  <point x="750.6381499474784" y="500.0" />
+                  <point x="630.3751028536412" y="500.0" />
+                  <point x="-17.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/aopalliance:aopalliance:jar:1.0">
+                  <point x="-36.75" y="-15.0" />
+                  <point x="2085.7897365196063" y="690.0" />
+                  <point x="1797.4463804271707" y="690.0" />
+                  <point x="-24.5" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-asm:jar:3.0.6.RELEASE">
+                  <point x="25.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0">
+                  <point x="50.333333333333314" y="-15.0" />
+                  <point x="919.0714832808117" y="610.0" />
+                  <point x="1006.7381499474784" y="610.0" />
+                  <point x="-41.5" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="-28.6875" y="-15.0" />
+                  <point x="1080.7083333333335" y="770.0" />
+                  <point x="954.7381499474784" y="770.0" />
+                  <point x="954.7381499474784" y="400.0" />
+                  <point x="1086.1131499474784" y="400.0" />
+                  <point x="-8.875" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/org.apache.santuario:xmlsec:jar:1.4.4">
+                  <point x="-31.0" y="-15.0" />
+                  <point x="177.90481661414515" y="410.0" />
+                  <point x="97.83333333333348" y="410.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0">
+                  <point x="-18.714285714285666" y="-15.0" />
+                  <point x="392.6190476190478" y="760.0" />
+                  <point x="423.40481661414515" y="760.0" />
+                  <point x="423.40481661414515" y="240.0" />
+                  <point x="463.00010285364124" y="240.0" />
+                  <point x="-55.875" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-bindings-xml:jar:2.5.0">
+                  <point x="-9.5625" y="-15.0" />
+                  <point x="1099.8333333333335" y="760.0" />
+                  <point x="1115.7381499474784" y="760.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-api:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/wsdl4j:wsdl4j:jar:1.6.2">
+                  <point x="-8.875" y="-15.0" />
+                  <point x="1086.1131499474784" y="230.0" />
+                  <point x="664.3751028536412" y="230.0" />
+                  <point x="17.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-asm:jar:3.0.6.RELEASE">
+                  <point x="46.40000000000009" y="-15.0" />
+                  <point x="2141.4397365196064" y="610.0" />
+                  <point x="2198.3838804271704" y="610.0" />
+                  <point x="2198.3838804271704" y="240.0" />
+                  <point x="2100.311066614145" y="240.0" />
+                  <point x="32.66666666666674" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3">
+                  <point x="-37.428571428571445" y="-15.0" />
+                  <point x="373.90476190476204" y="790.0" />
+                  <point x="192.33333333333348" y="790.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+                  <point x="55.333333333333314" y="-15.0" />
+                  <point x="1103.5714832808117" y="520.0" />
+                  <point x="1356.2231661414562" y="520.0" />
+                  <point x="-13.285714285714334" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+                  <point x="66.9375" y="-15.0" />
+                  <point x="1176.3333333333335" y="800.0" />
+                  <point x="1496.7381499474784" y="800.0" />
+                  <point x="1496.7381499474784" y="520.0" />
+                  <point x="1382.7945947128849" y="520.0" />
+                  <point x="13.28571428571422" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0">
+                  <point x="-55.19999999999999" y="-15.0" />
+                  <point x="723.0381499474784" y="510.0" />
+                  <point x="566.0209865196066" y="510.0" />
+                  <point x="566.0209865196066" y="230.0" />
+                  <point x="537.5001028536412" y="230.0" />
+                  <point x="18.625" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-bindings-xml:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0">
+                  <point x="-35.5" y="-15.0" />
+                  <point x="1080.2381499474784" y="610.0" />
+                  <point x="1089.7381499474784" y="610.0" />
+                  <point x="41.5" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/aopalliance:aopalliance:jar:1.0">
+                  <point x="-36.37499999999977" y="-15.0" />
+                  <point x="1957.8647365196066" y="510.0" />
+                  <point x="1846.4463804271707" y="510.0" />
+                  <point x="24.5" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.apache.cxf:cxf-rt-transports-common:jar:2.5.0">
+                  <point x="-19.375" y="-15.0" />
+                  <point x="1643.1279761904764" y="800.0" />
+                  <point x="1627.3647365196066" y="800.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5/commons-logging:commons-logging:jar:1.1">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+                  <point x="-47.8125" y="-15.0" />
+                  <point x="1061.5833333333335" y="780.0" />
+                  <point x="904.2334865196065" y="780.0" />
+                  <point x="904.2334865196065" y="690.0" />
+                  <point x="898.9381499474785" y="690.0" />
+                  <point x="30.19999999999999" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+                  <point x="38.33333333333334" y="-15.0" />
+                  <point x="690.7084361869746" y="690.0" />
+                  <point x="808.3381499474784" y="690.0" />
+                  <point x="-60.39999999999998" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/org.slf4j:slf4j-api:jar:1.6.1">
+                  <point x="0.0" y="-15.0" />
+                  <point x="208.90481661414515" y="410.0" />
+                  <point x="192.33333333333348" y="410.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0">
+                  <point x="-6.916666666666629" y="-15.0" />
+                  <point x="1300.3675595238096" y="870.0" />
+                  <point x="1109.3958333333335" y="870.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+                  <point x="-20.75" y="-15.0" />
+                  <point x="1286.5342261904764" y="880.0" />
+                  <point x="861.2334865196065" y="880.0" />
+                  <point x="861.2334865196065" y="690.0" />
+                  <point x="868.7381499474784" y="690.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1">
+                  <point x="18.71428571428578" y="-15.0" />
+                  <point x="430.04761904761926" y="780.0" />
+                  <point x="486.90481661414515" y="780.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0">
+                  <point x="-50.33333333333337" y="-15.0" />
+                  <point x="818.404816614145" y="600.0" />
+                  <point x="778.2381499474784" y="600.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE">
+                  <point x="-12.25" y="-15.0" />
+                  <point x="2110.2897365196063" y="690.0" />
+                  <point x="2095.0397365196063" y="690.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1048.2381499474784" y="410.0" />
+                  <point x="1092.029816614145" y="410.0" />
+                  <point x="-2.9583333333333712" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-asm:jar:3.0.6.RELEASE">
+                  <point x="-12.124999999999773" y="-15.0" />
+                  <point x="1982.1147365196066" y="500.0" />
+                  <point x="1881.4463804271707" y="500.0" />
+                  <point x="1881.4463804271707" y="240.0" />
+                  <point x="2034.9777332808117" y="240.0" />
+                  <point x="-32.66666666666674" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="0.0" y="-15.0" />
+                  <point x="411.3333333333335" y="770.0" />
+                  <point x="434.40481661414515" y="770.0" />
+                  <point x="434.40481661414515" y="520.0" />
+                  <point x="589.4879967612053" y="520.0" />
+                  <point x="589.4879967612053" y="360.0" />
+                  <point x="1062.4464832808117" y="360.0" />
+                  <point x="-32.54166666666663" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/com.sun.xml.bind:jaxb-impl:jar:2.1.13">
+                  <point x="-34.875" y="-15.0" />
+                  <point x="1334.6338804271707" y="350.0" />
+                  <point x="791.2048166141451" y="350.0" />
+                  <point x="28.666666666666686" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/xml-resolver:xml-resolver:jar:1.2">
+                  <point x="47.8125" y="-15.0" />
+                  <point x="1157.2083333333335" y="790.0" />
+                  <point x="1434.2381499474784" y="790.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1/org.codehaus.woodstox:stax2-api:jar:3.1.1">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.apache.cxf:cxf-rt-transports-common:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="45.75" y="-15.0" />
+                  <point x="1673.1147365196066" y="320.0" />
+                  <point x="1121.6131499474784" y="320.0" />
+                  <point x="26.625" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0">
+                  <point x="28.6875" y="-15.0" />
+                  <point x="1138.0833333333335" y="780.0" />
+                  <point x="1282.2381499474784" y="780.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-expression:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1960.4463804271707" y="410.0" />
+                  <point x="2002.6443999474784" y="410.0" />
+                  <point x="-40.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/asm:asm:jar:3.3">
+                  <point x="9.5625" y="-15.0" />
+                  <point x="1118.9583333333335" y="770.0" />
+                  <point x="1154.2381499474784" y="770.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-expression:jar:3.0.6.RELEASE">
+                  <point x="-46.40000000000009" y="-15.0" />
+                  <point x="2048.6397365196062" y="610.0" />
+                  <point x="1927.3647365196066" y="610.0" />
+                  <point x="1927.3647365196066" y="520.0" />
+                  <point x="1960.4463804271707" y="520.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="27.600000000000023" y="-15.0" />
+                  <point x="805.8381499474784" y="520.0" />
+                  <point x="787.9667695203078" y="520.0" />
+                  <point x="787.9667695203078" y="380.0" />
+                  <point x="1074.279816614145" y="380.0" />
+                  <point x="-20.70833333333337" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/commons-logging:commons-logging:jar:1.1.1">
+                  <point x="-21.0" y="-15.0" />
+                  <point x="171.33333333333348" y="690.0" />
+                  <point x="51.833333333333485" y="690.0" />
+                  <point x="51.833333333333485" y="240.0" />
+                  <point x="69.5" y="240.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0">
+                  <point x="20.75" y="-15.0" />
+                  <point x="1328.0342261904764" y="880.0" />
+                  <point x="1662.5029761904764" y="880.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="junit:junit:jar:3.8.1">
+                  <point x="34.58333333333337" y="-15.0" />
+                  <point x="1341.8675595238096" y="890.0" />
+                  <point x="1788.0029761904764" y="890.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/com.sun.xml.bind:jaxb-impl:jar:2.1.13">
+                  <point x="0.0" y="-15.0" />
+                  <point x="778.2381499474784" y="490.0" />
+                  <point x="645.0626531862732" y="490.0" />
+                  <point x="645.0626531862732" y="350.0" />
+                  <point x="733.8714832808116" y="350.0" />
+                  <point x="-28.666666666666686" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-api:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0">
+                  <point x="-26.625" y="-15.0" />
+                  <point x="1068.3631499474784" y="240.0" />
+                  <point x="574.7501028536412" y="240.0" />
+                  <point x="55.875" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="19.375" y="-15.0" />
+                  <point x="1681.8779761904764" y="790.0" />
+                  <point x="1729.3647365196066" y="790.0" />
+                  <point x="1729.3647365196066" y="310.0" />
+                  <point x="1127.5298166141451" y="310.0" />
+                  <point x="32.54166666666674" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+                  <point x="12.125000000000227" y="-15.0" />
+                  <point x="2006.3647365196066" y="510.0" />
+                  <point x="2039.4463804271707" y="510.0" />
+                  <point x="2039.4463804271707" y="410.0" />
+                  <point x="2022.6443999474784" y="410.0" />
+                  <point x="-20.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+                  <point x="37.428571428571445" y="-15.0" />
+                  <point x="448.76190476190493" y="790.0" />
+                  <point x="539.4048166141451" y="790.0" />
+                  <point x="539.4048166141451" y="610.0" />
+                  <point x="857.7381499474784" y="610.0" />
+                  <point x="857.7381499474784" y="510.0" />
+                  <point x="1342.937451855742" y="510.0" />
+                  <point x="-26.571428571428555" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+                  <point x="36.75" y="-15.0" />
+                  <point x="2159.2897365196063" y="690.0" />
+                  <point x="2220.3838804271704" y="690.0" />
+                  <point x="2220.3838804271704" y="380.0" />
+                  <point x="2082.6443999474786" y="380.0" />
+                  <point x="40.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1">
+                  <point x="34.875" y="-15.0" />
+                  <point x="1404.3838804271707" y="410.0" />
+                  <point x="1489.1338804271707" y="410.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/joda-time:joda-time:jar:1.6.2">
+                  <point x="31.0" y="-15.0" />
+                  <point x="239.90481661414515" y="410.0" />
+                  <point x="320.5833333333335" y="410.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+                  <point x="-53.33333333333337" y="-15.0" />
+                  <point x="1228.9048166141451" y="690.0" />
+                  <point x="929.1381499474784" y="690.0" />
+                  <point x="60.39999999999998" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE">
+                  <point x="36.37500000000023" y="-15.0" />
+                  <point x="2030.6147365196066" y="520.0" />
+                  <point x="2097.050547093837" y="520.0" />
+                  <point x="-36.33333333333326" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.1">
+                  <point x="37.25" y="-15.0" />
+                  <point x="556.1251028536412" y="135.0" />
+                  <point x="1092.404816614145" y="135.0" />
+                  <point x="-42.33333333333337" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE">
+                  <point x="-23.200000000000045" y="-15.0" />
+                  <point x="2071.839736519606" y="600.0" />
+                  <point x="1994.2397365196064" y="600.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE">
+                  <point x="12.25" y="-15.0" />
+                  <point x="2134.7897365196063" y="680.0" />
+                  <point x="2209.3838804271704" y="680.0" />
+                  <point x="2209.3838804271704" y="520.0" />
+                  <point x="2169.717213760504" y="520.0" />
+                  <point x="36.33333333333326" y="15.0" />
+                </edge>
+                <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0">
+                  <point x="-34.58333333333337" y="-15.0" />
+                  <point x="1272.7008928571431" y="890.0" />
+                  <point x="411.3333333333335" y="890.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="0.0" y="-15.0" />
+                  <point x="652.3751028536412" y="680.0" />
+                  <point x="698.7381499474784" y="680.0" />
+                  <point x="698.7381499474784" y="370.0" />
+                  <point x="1068.3631499474784" y="370.0" />
+                  <point x="-26.625" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/commons-logging:commons-logging:jar:1.1.1">
+                  <point x="-56.14285714285711" y="-15.0" />
+                  <point x="355.1904761904764" y="800.0" />
+                  <point x="40.833333333333485" y="800.0" />
+                  <point x="40.833333333333485" y="240.0" />
+                  <point x="23.166666666666742" y="240.0" />
+                  <point x="-46.33333333333326" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-bindings-xml:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="35.5" y="-15.0" />
+                  <point x="1151.2381499474784" y="610.0" />
+                  <point x="1141.7381499474784" y="610.0" />
+                  <point x="1141.7381499474784" y="410.0" />
+                  <point x="1097.9464832808117" y="410.0" />
+                  <point x="2.9583333333333712" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1282.2381499474784" y="690.0" />
+                  <point x="1280.4048166141451" y="690.0" />
+                  <point x="1280.4048166141451" y="400.0" />
+                  <point x="1103.8631499474784" y="400.0" />
+                  <point x="8.875" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5">
+                  <point x="21.0" y="-15.0" />
+                  <point x="213.33333333333348" y="690.0" />
+                  <point x="336.90481661414515" y="690.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1">
+                  <point x="-37.25" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-api:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.neethi:neethi:jar:3.0.1">
+                  <point x="8.875" y="-15.0" />
+                  <point x="1103.8631499474784" y="220.0" />
+                  <point x="1090.7381499474784" y="220.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1">
+                  <point x="0.0" y="-15.0" />
+                  <point x="192.33333333333348" y="680.0" />
+                  <point x="208.90481661414515" y="680.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE">
+                  <point x="58.125" y="-15.0" />
+                  <point x="1720.6279761904764" y="800.0" />
+                  <point x="2122.5397365196063" y="800.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+                  <point x="56.14285714285711" y="-15.0" />
+                  <point x="467.4761904761906" y="800.0" />
+                  <point x="816.5465314250698" y="800.0" />
+                  <point x="816.5465314250698" y="690.0" />
+                  <point x="838.5381499474784" y="690.0" />
+                  <point x="-30.19999999999999" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.apache.cxf:cxf-rt-transports-common:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+                  <point x="-45.75" y="-15.0" />
+                  <point x="1581.6147365196066" y="500.0" />
+                  <point x="1409.3660232843135" y="500.0" />
+                  <point x="39.85714285714289" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="-11.625" y="-15.0" />
+                  <point x="1357.8838804271707" y="340.0" />
+                  <point x="1109.7798166141451" y="340.0" />
+                  <point x="14.791666666666742" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.1">
+                  <point x="11.625" y="-15.0" />
+                  <point x="1381.1338804271707" y="135.0" />
+                  <point x="1177.0714832808117" y="135.0" />
+                  <point x="42.33333333333337" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0">
+                  <point x="-38.33333333333337" y="-15.0" />
+                  <point x="614.0417695203079" y="690.0" />
+                  <point x="555.0209865196066" y="690.0" />
+                  <point x="555.0209865196066" y="240.0" />
+                  <point x="500.25010285364124" y="240.0" />
+                  <point x="-18.625" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE">
+                  <point x="23.200000000000045" y="-15.0" />
+                  <point x="2118.2397365196066" y="610.0" />
+                  <point x="2133.3838804271704" y="610.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0">
+                  <point x="-66.9375" y="-15.0" />
+                  <point x="1042.4583333333335" y="790.0" />
+                  <point x="652.3751028536412" y="790.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="2133.3838804271704" y="390.0" />
+                  <point x="2062.6443999474786" y="390.0" />
+                  <point x="20.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1/xalan:serializer:jar:2.7.1">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-api:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.1">
+                  <point x="26.625" y="-15.0" />
+                  <point x="1121.6131499474784" y="240.0" />
+                  <point x="1134.7381499474784" y="240.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+                  <point x="0.0" y="-15.0" />
+                  <point x="868.7381499474784" y="390.0" />
+                  <point x="1080.1964832808117" y="390.0" />
+                  <point x="-14.791666666666629" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+                  <point x="53.33333333333337" y="-15.0" />
+                  <point x="1335.571483280812" y="690.0" />
+                  <point x="1369.5088804271707" y="690.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+                  <point x="-58.125" y="-15.0" />
+                  <point x="1604.3779761904764" y="800.0" />
+                  <point x="1525.3647365196066" y="800.0" />
+                  <point x="1525.3647365196066" y="510.0" />
+                  <point x="1396.080308998599" y="510.0" />
+                  <point x="26.571428571428555" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+                  <point x="0.0" y="-15.0" />
+                  <point x="2095.0397365196063" y="590.0" />
+                  <point x="2068.3838804271704" y="590.0" />
+                  <point x="2068.3838804271704" y="400.0" />
+                  <point x="2042.6443999474784" y="400.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/com.sun.xml.bind:jaxb-impl:jar:2.1.13">
+                  <point x="-55.33333333333337" y="-15.0" />
+                  <point x="992.904816614145" y="480.0" />
+                  <point x="762.5381499474784" y="480.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="436.5" y="329.5" />
+              <SelectedNodes>
+                <node>org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5</node>
+              </SelectedNodes>
+              <Categories />
+              <VISIBILITY>All</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webServiceApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ws/server/webServiceApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ws/server/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ws/server/HelloWorldService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ws/server/HelloWordServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ws/server/webServiceApp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ws-study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ws-study" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-ws" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ws" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ws" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ws" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ws" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ws" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ws" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-ws" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ws" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring/springboot-study" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="webServiceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ws.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ws.server.webServiceApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java-ws" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.webServiceApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="074f7f1a-9047-4108-87e2-dfe35e588bf8" name="Default" comment="" />
+      <created>1514942690578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514942690578</updated>
+      <workItem from="1514942695000" duration="3298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3298000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6957237" sideWeight="0.5030257" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15733737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24013157" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15204236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/server/webServiceApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/server/HelloWorldService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ws/server/HelloWordServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.github.nyc:ws-study:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.github.nyc:ws-study:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="1265.7842261904764" y="910.0">com.github.nyc:ws-study:1.0-SNAPSHOT</node>
+            <node x="1760.0029761904764" y="820.0">junit:junit:jar:3.8.1</node>
+            <node x="1059.4881499474784" y="260.0">org.apache.cxf:cxf-api:jar:2.5.0</node>
+            <node x="444.37510285364124" y="160.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0</node>
+            <node x="411.12510285364124" y="80.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1</node>
+            <node x="439.12510285364124" y="0.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1/org.codehaus.woodstox:stax2-api:jar:3.1.1</node>
+            <node x="1071.2381499474784" y="80.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.1</node>
+            <node x="1057.2381499474784" y="160.0">org.apache.cxf:cxf-api:jar:2.5.0/org.apache.neethi:neethi:jar:3.0.1</node>
+            <node x="613.3751028536412" y="160.0">org.apache.cxf:cxf-api:jar:2.5.0/wsdl4j:wsdl4j:jar:1.6.2</node>
+            <node x="1032.8958333333335" y="820.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0</node>
+            <node x="1382.2381499474784" y="710.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/xml-resolver:xml-resolver:jar:1.2</node>
+            <node x="1126.2381499474784" y="710.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/asm:asm:jar:3.3</node>
+            <node x="1323.0088804271707" y="430.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0</node>
+            <node x="719.5381499474784" y="260.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/com.sun.xml.bind:jaxb-impl:jar:2.1.13</node>
+            <node x="1391.6338804271707" y="260.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1</node>
+            <node x="1044.7381499474784" y="630.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-bindings-xml:jar:2.5.0</node>
+            <node x="1202.2381499474784" y="710.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0</node>
+            <node x="594.8751028536412" y="710.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0</node>
+            <node x="793.2381499474784" y="630.0">org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0</node>
+            <node x="709.2381499474784" y="540.0">org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0</node>
+            <node x="965.2381499474784" y="540.0">org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0</node>
+            <node x="1585.0029761904764" y="820.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0</node>
+            <node x="1535.8647365196066" y="540.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.apache.cxf:cxf-rt-transports-common:jar:2.5.0</node>
+            <node x="2073.5397365196063" y="710.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE</node>
+            <node x="1772.9463804271707" y="430.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="2078.8838804271704" y="430.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE</node>
+            <node x="2037.0397365196063" y="630.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE</node>
+            <node x="1945.7397365196064" y="540.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE</node>
+            <node x="1891.9463804271707" y="430.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-expression:jar:3.0.6.RELEASE</node>
+            <node x="2018.6443999474784" y="160.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-asm:jar:3.0.6.RELEASE</node>
+            <node x="1992.6443999474784" y="260.0">org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE</node>
+            <node x="345.8333333333335" y="820.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0</node>
+            <node x="160.83333333333348" y="710.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3</node>
+            <node x="301.40481661414515" y="630.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5</node>
+            <node x="267.40481661414515" y="540.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5/commons-logging:commons-logging:jar:1.1</node>
+            <node x="164.40481661414515" y="630.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1</node>
+            <node x="170.40481661414515" y="540.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1</node>
+            <node x="162.40481661414515" y="430.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1</node>
+            <node x="153.33333333333348" y="260.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/org.slf4j:slf4j-api:jar:1.6.1</node>
+            <node x="276.5833333333335" y="260.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/joda-time:joda-time:jar:1.6.2</node>
+            <node x="62.333333333333485" y="260.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/org.apache.santuario:xmlsec:jar:1.4.4</node>
+            <node x="0.0" y="160.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="455.90481661414515" y="710.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1</node>
+            <node x="444.90481661414515" y="630.0">org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1/xalan:serializer:jar:2.7.1</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/commons-logging:commons-logging:jar:1.1.1">
+              <point x="-25.0" y="-15.0" />
+              <point x="2017.6443999474784" y="210.0" />
+              <point x="115.83333333333326" y="210.0" />
+              <point x="46.33333333333326" y="15.0" />
+            </edge>
+            <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="6.916666666666629" y="-15.0" />
+              <point x="1314.2008928571431" y="870.0" />
+              <point x="1512.2693999474784" y="870.0" />
+              <point x="1512.2693999474784" y="330.0" />
+              <point x="1115.6964832808117" y="330.0" />
+              <point x="20.70833333333337" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+              <point x="55.19999999999999" y="-15.0" />
+              <point x="833.4381499474785" y="500.0" />
+              <point x="1329.6517375700278" y="500.0" />
+              <point x="-39.85714285714289" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/wsdl4j:wsdl4j:jar:1.6.2">
+              <point x="-27.600000000000023" y="-15.0" />
+              <point x="750.6381499474784" y="500.0" />
+              <point x="630.3751028536412" y="500.0" />
+              <point x="-17.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="-36.75" y="-15.0" />
+              <point x="2085.7897365196063" y="690.0" />
+              <point x="1797.4463804271707" y="690.0" />
+              <point x="-24.5" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-asm:jar:3.0.6.RELEASE">
+              <point x="25.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0">
+              <point x="50.333333333333314" y="-15.0" />
+              <point x="919.0714832808117" y="610.0" />
+              <point x="1006.7381499474784" y="610.0" />
+              <point x="-41.5" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="-28.6875" y="-15.0" />
+              <point x="1080.7083333333335" y="770.0" />
+              <point x="954.7381499474784" y="770.0" />
+              <point x="954.7381499474784" y="400.0" />
+              <point x="1086.1131499474784" y="400.0" />
+              <point x="-8.875" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/org.apache.santuario:xmlsec:jar:1.4.4">
+              <point x="-31.0" y="-15.0" />
+              <point x="177.90481661414515" y="410.0" />
+              <point x="97.83333333333348" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0">
+              <point x="-18.714285714285666" y="-15.0" />
+              <point x="392.6190476190478" y="760.0" />
+              <point x="423.40481661414515" y="760.0" />
+              <point x="423.40481661414515" y="240.0" />
+              <point x="463.00010285364124" y="240.0" />
+              <point x="-55.875" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-bindings-xml:jar:2.5.0">
+              <point x="-9.5625" y="-15.0" />
+              <point x="1099.8333333333335" y="760.0" />
+              <point x="1115.7381499474784" y="760.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-api:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/wsdl4j:wsdl4j:jar:1.6.2">
+              <point x="-8.875" y="-15.0" />
+              <point x="1086.1131499474784" y="230.0" />
+              <point x="664.3751028536412" y="230.0" />
+              <point x="17.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-asm:jar:3.0.6.RELEASE">
+              <point x="46.40000000000009" y="-15.0" />
+              <point x="2141.4397365196064" y="610.0" />
+              <point x="2198.3838804271704" y="610.0" />
+              <point x="2198.3838804271704" y="240.0" />
+              <point x="2100.311066614145" y="240.0" />
+              <point x="32.66666666666674" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3">
+              <point x="-37.428571428571445" y="-15.0" />
+              <point x="373.90476190476204" y="790.0" />
+              <point x="192.33333333333348" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+              <point x="55.333333333333314" y="-15.0" />
+              <point x="1103.5714832808117" y="520.0" />
+              <point x="1356.2231661414562" y="520.0" />
+              <point x="-13.285714285714334" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+              <point x="66.9375" y="-15.0" />
+              <point x="1176.3333333333335" y="800.0" />
+              <point x="1496.7381499474784" y="800.0" />
+              <point x="1496.7381499474784" y="520.0" />
+              <point x="1382.7945947128849" y="520.0" />
+              <point x="13.28571428571422" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0">
+              <point x="-55.19999999999999" y="-15.0" />
+              <point x="723.0381499474784" y="510.0" />
+              <point x="566.0209865196066" y="510.0" />
+              <point x="566.0209865196066" y="230.0" />
+              <point x="537.5001028536412" y="230.0" />
+              <point x="18.625" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-bindings-xml:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0">
+              <point x="-35.5" y="-15.0" />
+              <point x="1080.2381499474784" y="610.0" />
+              <point x="1089.7381499474784" y="610.0" />
+              <point x="41.5" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="-36.37499999999977" y="-15.0" />
+              <point x="1957.8647365196066" y="510.0" />
+              <point x="1846.4463804271707" y="510.0" />
+              <point x="24.5" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.apache.cxf:cxf-rt-transports-common:jar:2.5.0">
+              <point x="-19.375" y="-15.0" />
+              <point x="1643.1279761904764" y="800.0" />
+              <point x="1627.3647365196066" y="800.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5/commons-logging:commons-logging:jar:1.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+              <point x="-47.8125" y="-15.0" />
+              <point x="1061.5833333333335" y="780.0" />
+              <point x="904.2334865196065" y="780.0" />
+              <point x="904.2334865196065" y="690.0" />
+              <point x="898.9381499474785" y="690.0" />
+              <point x="30.19999999999999" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+              <point x="38.33333333333334" y="-15.0" />
+              <point x="690.7084361869746" y="690.0" />
+              <point x="808.3381499474784" y="690.0" />
+              <point x="-60.39999999999998" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/org.slf4j:slf4j-api:jar:1.6.1">
+              <point x="0.0" y="-15.0" />
+              <point x="208.90481661414515" y="410.0" />
+              <point x="192.33333333333348" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0">
+              <point x="-6.916666666666629" y="-15.0" />
+              <point x="1300.3675595238096" y="870.0" />
+              <point x="1109.3958333333335" y="870.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+              <point x="-20.75" y="-15.0" />
+              <point x="1286.5342261904764" y="880.0" />
+              <point x="861.2334865196065" y="880.0" />
+              <point x="861.2334865196065" y="690.0" />
+              <point x="868.7381499474784" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1">
+              <point x="18.71428571428578" y="-15.0" />
+              <point x="430.04761904761926" y="780.0" />
+              <point x="486.90481661414515" y="780.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0">
+              <point x="-50.33333333333337" y="-15.0" />
+              <point x="818.404816614145" y="600.0" />
+              <point x="778.2381499474784" y="600.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE">
+              <point x="-12.25" y="-15.0" />
+              <point x="2110.2897365196063" y="690.0" />
+              <point x="2095.0397365196063" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="0.0" y="-15.0" />
+              <point x="1048.2381499474784" y="410.0" />
+              <point x="1092.029816614145" y="410.0" />
+              <point x="-2.9583333333333712" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-asm:jar:3.0.6.RELEASE">
+              <point x="-12.124999999999773" y="-15.0" />
+              <point x="1982.1147365196066" y="500.0" />
+              <point x="1881.4463804271707" y="500.0" />
+              <point x="1881.4463804271707" y="240.0" />
+              <point x="2034.9777332808117" y="240.0" />
+              <point x="-32.66666666666674" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="0.0" y="-15.0" />
+              <point x="411.3333333333335" y="770.0" />
+              <point x="434.40481661414515" y="770.0" />
+              <point x="434.40481661414515" y="520.0" />
+              <point x="589.4879967612053" y="520.0" />
+              <point x="589.4879967612053" y="360.0" />
+              <point x="1062.4464832808117" y="360.0" />
+              <point x="-32.54166666666663" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/com.sun.xml.bind:jaxb-impl:jar:2.1.13">
+              <point x="-34.875" y="-15.0" />
+              <point x="1334.6338804271707" y="350.0" />
+              <point x="791.2048166141451" y="350.0" />
+              <point x="28.666666666666686" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/xml-resolver:xml-resolver:jar:1.2">
+              <point x="47.8125" y="-15.0" />
+              <point x="1157.2083333333335" y="790.0" />
+              <point x="1434.2381499474784" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1/org.codehaus.woodstox:stax2-api:jar:3.1.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.apache.cxf:cxf-rt-transports-common:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="45.75" y="-15.0" />
+              <point x="1673.1147365196066" y="320.0" />
+              <point x="1121.6131499474784" y="320.0" />
+              <point x="26.625" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0">
+              <point x="28.6875" y="-15.0" />
+              <point x="1138.0833333333335" y="780.0" />
+              <point x="1282.2381499474784" y="780.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-expression:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="1960.4463804271707" y="410.0" />
+              <point x="2002.6443999474784" y="410.0" />
+              <point x="-40.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/asm:asm:jar:3.3">
+              <point x="9.5625" y="-15.0" />
+              <point x="1118.9583333333335" y="770.0" />
+              <point x="1154.2381499474784" y="770.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-expression:jar:3.0.6.RELEASE">
+              <point x="-46.40000000000009" y="-15.0" />
+              <point x="2048.6397365196062" y="610.0" />
+              <point x="1927.3647365196066" y="610.0" />
+              <point x="1927.3647365196066" y="520.0" />
+              <point x="1960.4463804271707" y="520.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="27.600000000000023" y="-15.0" />
+              <point x="805.8381499474784" y="520.0" />
+              <point x="787.9667695203078" y="520.0" />
+              <point x="787.9667695203078" y="380.0" />
+              <point x="1074.279816614145" y="380.0" />
+              <point x="-20.70833333333337" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/commons-logging:commons-logging:jar:1.1.1">
+              <point x="-21.0" y="-15.0" />
+              <point x="171.33333333333348" y="690.0" />
+              <point x="51.833333333333485" y="690.0" />
+              <point x="51.833333333333485" y="240.0" />
+              <point x="69.5" y="240.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0">
+              <point x="20.75" y="-15.0" />
+              <point x="1328.0342261904764" y="880.0" />
+              <point x="1662.5029761904764" y="880.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="junit:junit:jar:3.8.1">
+              <point x="34.58333333333337" y="-15.0" />
+              <point x="1341.8675595238096" y="890.0" />
+              <point x="1788.0029761904764" y="890.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-tools-common:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/com.sun.xml.bind:jaxb-impl:jar:2.1.13">
+              <point x="0.0" y="-15.0" />
+              <point x="778.2381499474784" y="490.0" />
+              <point x="645.0626531862732" y="490.0" />
+              <point x="645.0626531862732" y="350.0" />
+              <point x="733.8714832808116" y="350.0" />
+              <point x="-28.666666666666686" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-api:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0">
+              <point x="-26.625" y="-15.0" />
+              <point x="1068.3631499474784" y="240.0" />
+              <point x="574.7501028536412" y="240.0" />
+              <point x="55.875" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="19.375" y="-15.0" />
+              <point x="1681.8779761904764" y="790.0" />
+              <point x="1729.3647365196066" y="790.0" />
+              <point x="1729.3647365196066" y="310.0" />
+              <point x="1127.5298166141451" y="310.0" />
+              <point x="32.54166666666674" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+              <point x="12.125000000000227" y="-15.0" />
+              <point x="2006.3647365196066" y="510.0" />
+              <point x="2039.4463804271707" y="510.0" />
+              <point x="2039.4463804271707" y="410.0" />
+              <point x="2022.6443999474784" y="410.0" />
+              <point x="-20.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+              <point x="37.428571428571445" y="-15.0" />
+              <point x="448.76190476190493" y="790.0" />
+              <point x="539.4048166141451" y="790.0" />
+              <point x="539.4048166141451" y="610.0" />
+              <point x="857.7381499474784" y="610.0" />
+              <point x="857.7381499474784" y="510.0" />
+              <point x="1342.937451855742" y="510.0" />
+              <point x="-26.571428571428555" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+              <point x="36.75" y="-15.0" />
+              <point x="2159.2897365196063" y="690.0" />
+              <point x="2220.3838804271704" y="690.0" />
+              <point x="2220.3838804271704" y="380.0" />
+              <point x="2082.6443999474786" y="380.0" />
+              <point x="40.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/org.apache.geronimo.specs:geronimo-javamail_1.4_spec:jar:1.7.1">
+              <point x="34.875" y="-15.0" />
+              <point x="1404.3838804271707" y="410.0" />
+              <point x="1489.1338804271707" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1/joda-time:joda-time:jar:1.6.2">
+              <point x="31.0" y="-15.0" />
+              <point x="239.90481661414515" y="410.0" />
+              <point x="320.5833333333335" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+              <point x="-53.33333333333337" y="-15.0" />
+              <point x="1228.9048166141451" y="690.0" />
+              <point x="929.1381499474784" y="690.0" />
+              <point x="60.39999999999998" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE">
+              <point x="36.37500000000023" y="-15.0" />
+              <point x="2030.6147365196066" y="520.0" />
+              <point x="2097.050547093837" y="520.0" />
+              <point x="-36.33333333333326" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.1">
+              <point x="37.25" y="-15.0" />
+              <point x="556.1251028536412" y="135.0" />
+              <point x="1092.404816614145" y="135.0" />
+              <point x="-42.33333333333337" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE/org.springframework:spring-aop:jar:3.0.6.RELEASE">
+              <point x="-23.200000000000045" y="-15.0" />
+              <point x="2071.839736519606" y="600.0" />
+              <point x="1994.2397365196064" y="600.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE">
+              <point x="12.25" y="-15.0" />
+              <point x="2134.7897365196063" y="680.0" />
+              <point x="2209.3838804271704" y="680.0" />
+              <point x="2209.3838804271704" y="520.0" />
+              <point x="2169.717213760504" y="520.0" />
+              <point x="36.33333333333326" y="15.0" />
+            </edge>
+            <edge source="com.github.nyc:ws-study:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0">
+              <point x="-34.58333333333337" y="-15.0" />
+              <point x="1272.7008928571431" y="890.0" />
+              <point x="411.3333333333335" y="890.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="0.0" y="-15.0" />
+              <point x="652.3751028536412" y="680.0" />
+              <point x="698.7381499474784" y="680.0" />
+              <point x="698.7381499474784" y="370.0" />
+              <point x="1068.3631499474784" y="370.0" />
+              <point x="-26.625" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/commons-logging:commons-logging:jar:1.1.1">
+              <point x="-56.14285714285711" y="-15.0" />
+              <point x="355.1904761904764" y="800.0" />
+              <point x="40.833333333333485" y="800.0" />
+              <point x="40.833333333333485" y="240.0" />
+              <point x="23.166666666666742" y="240.0" />
+              <point x="-46.33333333333326" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-bindings-xml:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="35.5" y="-15.0" />
+              <point x="1151.2381499474784" y="610.0" />
+              <point x="1141.7381499474784" y="610.0" />
+              <point x="1141.7381499474784" y="410.0" />
+              <point x="1097.9464832808117" y="410.0" />
+              <point x="2.9583333333333712" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="0.0" y="-15.0" />
+              <point x="1282.2381499474784" y="690.0" />
+              <point x="1280.4048166141451" y="690.0" />
+              <point x="1280.4048166141451" y="400.0" />
+              <point x="1103.8631499474784" y="400.0" />
+              <point x="8.875" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5">
+              <point x="21.0" y="-15.0" />
+              <point x="213.33333333333348" y="690.0" />
+              <point x="336.90481661414515" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1">
+              <point x="-37.25" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-api:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.neethi:neethi:jar:3.0.1">
+              <point x="8.875" y="-15.0" />
+              <point x="1103.8631499474784" y="220.0" />
+              <point x="1090.7381499474784" y="220.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1">
+              <point x="0.0" y="-15.0" />
+              <point x="192.33333333333348" y="680.0" />
+              <point x="208.90481661414515" y="680.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE">
+              <point x="58.125" y="-15.0" />
+              <point x="1720.6279761904764" y="800.0" />
+              <point x="2122.5397365196063" y="800.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0" target="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0">
+              <point x="56.14285714285711" y="-15.0" />
+              <point x="467.4761904761906" y="800.0" />
+              <point x="816.5465314250698" y="800.0" />
+              <point x="816.5465314250698" y="690.0" />
+              <point x="838.5381499474784" y="690.0" />
+              <point x="-30.19999999999999" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.apache.cxf:cxf-rt-transports-common:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+              <point x="-45.75" y="-15.0" />
+              <point x="1581.6147365196066" y="500.0" />
+              <point x="1409.3660232843135" y="500.0" />
+              <point x="39.85714285714289" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.opensaml:opensaml:jar:2.5.1-1/org.opensaml:openws:jar:1.4.2-1/org.opensaml:xmltooling:jar:1.3.2-1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="-11.625" y="-15.0" />
+              <point x="1357.8838804271707" y="340.0" />
+              <point x="1109.7798166141451" y="340.0" />
+              <point x="14.791666666666742" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.1">
+              <point x="11.625" y="-15.0" />
+              <point x="1381.1338804271707" y="135.0" />
+              <point x="1177.0714832808117" y="135.0" />
+              <point x="42.33333333333337" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.cxf:cxf-common-utilities:jar:2.5.0">
+              <point x="-38.33333333333337" y="-15.0" />
+              <point x="614.0417695203079" y="690.0" />
+              <point x="555.0209865196066" y="690.0" />
+              <point x="555.0209865196066" y="240.0" />
+              <point x="500.25010285364124" y="240.0" />
+              <point x="-18.625" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE">
+              <point x="23.200000000000045" y="-15.0" />
+              <point x="2118.2397365196066" y="610.0" />
+              <point x="2133.3838804271704" y="610.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-ws-addr:jar:2.5.0">
+              <point x="-66.9375" y="-15.0" />
+              <point x="1042.4583333333335" y="790.0" />
+              <point x="652.3751028536412" y="790.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-beans:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="2133.3838804271704" y="390.0" />
+              <point x="2062.6443999474786" y="390.0" />
+              <point x="20.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1" target="org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/xalan:xalan:jar:2.7.1/xalan:serializer:jar:2.7.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-api:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0/org.apache.ws.xmlschema:xmlschema-core:jar:2.0.1">
+              <point x="26.625" y="-15.0" />
+              <point x="1121.6131499474784" y="240.0" />
+              <point x="1134.7381499474784" y="240.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0" target="org.apache.cxf:cxf-api:jar:2.5.0">
+              <point x="0.0" y="-15.0" />
+              <point x="868.7381499474784" y="390.0" />
+              <point x="1080.1964832808117" y="390.0" />
+              <point x="-14.791666666666629" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-frontend-simple:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+              <point x="53.33333333333337" y="-15.0" />
+              <point x="1335.571483280812" y="690.0" />
+              <point x="1369.5088804271707" y="690.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0">
+              <point x="-58.125" y="-15.0" />
+              <point x="1604.3779761904764" y="800.0" />
+              <point x="1525.3647365196066" y="800.0" />
+              <point x="1525.3647365196066" y="510.0" />
+              <point x="1396.080308998599" y="510.0" />
+              <point x="26.571428571428555" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-context:jar:3.0.6.RELEASE" target="org.apache.cxf:cxf-rt-transports-http:jar:2.5.0/org.springframework:spring-web:jar:3.0.6.RELEASE/org.springframework:spring-core:jar:3.0.6.RELEASE">
+              <point x="0.0" y="-15.0" />
+              <point x="2095.0397365196063" y="590.0" />
+              <point x="2068.3838804271704" y="590.0" />
+              <point x="2068.3838804271704" y="400.0" />
+              <point x="2042.6443999474784" y="400.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-bindings-soap:jar:2.5.0/org.apache.cxf:cxf-rt-databinding-jaxb:jar:2.5.0" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:2.5.0/org.apache.cxf:cxf-rt-core:jar:2.5.0/com.sun.xml.bind:jaxb-impl:jar:2.1.13">
+              <point x="-55.33333333333337" y="-15.0" />
+              <point x="992.904816614145" y="480.0" />
+              <point x="762.5381499474784" y="480.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="436.5" y="329.5" />
+          <SelectedNodes>
+            <node>org.apache.cxf:cxf-rt-ws-security:jar:2.5.0/org.apache.ws.security:wss4j:jar:1.6.3/org.apache.santuario:xmlsec:jar:1.4.5</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
